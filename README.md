@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Lance M.
+### My name is Lance Mohesky
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmohesky&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
